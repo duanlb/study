@@ -3,4 +3,7 @@ study program
 
 This is branch
 
-Show diffrence by branch
+
+Edit too,diff by master
+
+Show diffrence by branchr
